@@ -1,0 +1,15 @@
+# Ignore generated benchmark outputs, raw text logs, and figures
+*.csv
+*.txt
+*.pdf
+
+# Preserve directory structure by tracking .gitkeep files
+!.gitkeep
+
+# OS-specific files
+.DS_Store
+
+# Julia profiling and coverage artifacts
+*.jl.*.cov
+*.jl.cov
+*.jl.mem
