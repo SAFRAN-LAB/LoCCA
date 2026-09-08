@@ -62,7 +62,7 @@ Alternatively, you can open the standard Julia REPL, enter the package manager p
 pkg> activate .
 pkg> instantiate
 ```
-
+---
 ## 🚀 Usage
 ### Running the Primary Test Example
 To verify your installation and setup, execute the baseline example from your terminal:
