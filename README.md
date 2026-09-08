@@ -103,7 +103,7 @@ Obtained rank is r = 28
 
 
 
-
+---
 ## ⚙️ Configuration & Parameter Tuning
 
 Simulation parameters, kernel selections, and geometric bounds can be modified without altering the core solver routines. Update the parameter module located at: 📂 `test_run/config.jl` (or inside each specific experiment folder under `tests/`).
