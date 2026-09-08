@@ -206,7 +206,7 @@ Extensive numerical experiments demonstrate the computational efficiency and sta
 * **Shrirup Dutta** — Department of Mathematics, IIT Madras ([Email](mailto:shrirupdutta@gmail.com) / [ORCID](https://orcid.org/0009-0005-3479-8895))
 * **Sivaram Ambikasaran** — Department of Mathematics & Department of Data Science and AI, IIT Madras ([Email](mailto:sivaambi@dsai.iitm.ac.in) / [ORCID](https://orcid.org/0000-0003-2978-6281))
 
-Developed at the **SAFRAN Research Lab**, Indian Institute of Technology Madras, Chennai, India[cite: 2, 4].
+Developed at the **SAFRAN Research Lab**, Indian Institute of Technology Madras, Chennai, India.
 
 ---
 
